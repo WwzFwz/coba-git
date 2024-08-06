@@ -1,1 +1,1 @@
-print("s")sssssknxss
+print("s")sssssk
